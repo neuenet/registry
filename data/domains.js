@@ -27,6 +27,9 @@ const domains = [
     "name": "adza"
   },
   {
+    "name": "afrobeat"
+  },
+  {
     "name": "airhead"
   },
   {
