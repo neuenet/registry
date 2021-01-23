@@ -1,0 +1,9 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# File
+package-lock.json
+
+# Folder
+node_modules
