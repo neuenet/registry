@@ -201,6 +201,15 @@ const domains = [
     "name": "dedsec"
   },
   {
+    "name": "dedware"
+  },
+  {
+    "name": "dedwares"
+  },
+  {
+    "name": "dedwarez"
+  },
+  {
     "name": "demasu"
   },
   {
