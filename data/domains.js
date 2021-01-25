@@ -282,9 +282,6 @@ const domains = [
     "name": "gabs"
   },
   {
-    "name": "gamedex"
-  },
-  {
     "name": "garterbelt"
   },
   {
