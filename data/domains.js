@@ -147,6 +147,9 @@ const domains = [
     "name": "cetra"
   },
   {
+    "name": "cherub"
+  },
+  {
     "name": "chocolatethunder"
   },
   {
@@ -489,6 +492,9 @@ const domains = [
     "name": "nisar"
   },
   {
+    "name": "nonsequitur"
+  },
+  {
     "name": "nuba"
   },
   {
@@ -654,6 +660,9 @@ const domains = [
     "name": "symbols"
   },
   {
+    "name": "tachyon"
+  },
+  {
     "name": "taiyong"
   },
   {
@@ -744,6 +753,10 @@ const domains = [
     "name": "zwl"
   },
   {
+    "name": "xn--81g",
+    "unicode": "&deg;F"
+  },
+  {
     "name": "xn--beaut-fsa",
     "unicode": "beauté"
   },
@@ -774,6 +787,10 @@ const domains = [
   {
     "name": "xn--screvn-fgb",
     "unicode": "screvōn"
+  },
+  {
+    "name": "xn--s31h",
+    "unicode": "𝒲"
   },
   {
     "name": "xn--seorita-5za",
