@@ -153,7 +153,13 @@ const domains = [
     "name": "chocolatethunder"
   },
   {
+    "name": "chown"
+  },
+  {
     "name": "chronver"
+  },
+  {
+    "name": "chroot"
   },
   {
     "name": "cobrakai"
@@ -309,6 +315,9 @@ const domains = [
     "name": "govfin"
   },
   {
+    "name": "greenbook"
+  },
+  {
     "name": "halide"
   },
   {
@@ -319,6 +328,12 @@ const domains = [
   },
   {
     "name": "hsla"
+  },
+  {
+    "name": "htop"
+  },
+  {
+    "name": "httpie"
   },
   {
     "name": "humanityfront"
@@ -615,6 +630,12 @@ const domains = [
     "name": "scrabbler"
   },
   {
+    "name": "scrot"
+  },
+  {
+    "name": "scrots"
+  },
+  {
     "name": "secks"
   },
   {
@@ -658,6 +679,9 @@ const domains = [
   },
   {
     "name": "symbols"
+  },
+  {
+    "name": "systemctl"
   },
   {
     "name": "tachyon"
