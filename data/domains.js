@@ -790,7 +790,7 @@ const domains = [
   },
   {
     "name": "xn--developers-lqa",
-    "unicode": "developers³"
+    "unicode": "developers<sup>3</sup>"
   },
   {
     "name": "xn--gi8hva",
