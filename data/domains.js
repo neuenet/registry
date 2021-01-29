@@ -48,9 +48,6 @@ const domains = [
     "name": "amoebae"
   },
   {
-    "name": "ancientpear"
-  },
-  {
     "name": "andale"
   },
   {
@@ -624,6 +621,9 @@ const domains = [
     "name": "satoi"
   },
   {
+    "name": "sceptre"
+  },
+  {
     "name": "scorch"
   },
   {
@@ -803,6 +803,10 @@ const domains = [
   {
     "name": "xn--p3h",
     "unicode": "★"
+  },
+  {
+    "name": "xn--rca",
+    "unicode": "&times;"
   },
   {
     "name": "xn--ri8hkv",
