@@ -54,6 +54,9 @@ const domains = [
     "name": "andme"
   },
   {
+    "name": "antifascist"
+  },
+  {
     "name": "apocalypse"
   },
   {
@@ -324,6 +327,9 @@ const domains = [
     "name": "hexa"
   },
   {
+    "name": "highball"
+  },
+  {
     "name": "hsla"
   },
   {
@@ -477,6 +483,9 @@ const domains = [
     "name": "nendoroid"
   },
   {
+    "name": "nekomata"
+  },
+  {
     "name": "neoscan"
   },
   {
@@ -589,6 +598,9 @@ const domains = [
   },
   {
     "name": "quiescence"
+  },
+  {
+    "name": "ravenous"
   },
   {
     "name": "rebreather"
@@ -738,6 +750,9 @@ const domains = [
     "name": "wagwan"
   },
   {
+    "name": "waists"
+  },
+  {
     "name": "wayan"
   },
   {
@@ -760,6 +775,9 @@ const domains = [
   },
   {
     "name": "wibbly"
+  },
+  {
+    "name": "wiggly"
   },
   {
     "name": "xra"
@@ -807,6 +825,10 @@ const domains = [
   {
     "name": "xn--rca",
     "unicode": "&times;"
+  },
+  {
+    "name": "xn--rrh",
+    "unicode": "④"
   },
   {
     "name": "xn--ri8hkv",
