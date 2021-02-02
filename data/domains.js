@@ -78,6 +78,48 @@ const domains = [
     "name": "backend"
   },
   {
+    "name": "backhand"
+  },
+  {
+    "name": "backlogs"
+  },
+  {
+    "name": "backrest"
+  },
+  {
+    "name": "backsides"
+  },
+  {
+    "name": "backspin"
+  },
+  {
+    "name": "backyards"
+  },
+  {
+    "name": "baggy"
+  },
+  {
+    "name": "baldy"
+  },
+  {
+    "name": "ballistics"
+  },
+  {
+    "name": "ballpoint"
+  },
+  {
+    "name": "bandages"
+  },
+  {
+    "name": "banjo"
+  },
+  {
+    "name": "barbecued"
+  },
+  {
+    "name": "barnacle"
+  },
+  {
     "name": "battlechip"
   },
   {
@@ -315,6 +357,9 @@ const domains = [
     "name": "govfin"
   },
   {
+    "name": "graphiql"
+  },
+  {
     "name": "greenbook"
   },
   {
@@ -349,6 +394,9 @@ const domains = [
   },
   {
     "name": "hyphen"
+  },
+  {
+    "name": "illuminatus"
   },
   {
     "name": "illumines"
@@ -447,7 +495,13 @@ const domains = [
     "name": "margoulis"
   },
   {
+    "name": "marshmallow"
+  },
+  {
     "name": "maru"
+  },
+  {
+    "name": "mayl"
   },
   {
     "name": "mazo"
@@ -706,6 +760,9 @@ const domains = [
   },
   {
     "name": "tdml"
+  },
+  {
+    "name": "teau"
   },
   {
     "name": "theblackfriday"
