@@ -606,6 +606,9 @@ const domains = [
     "name": "photachyon"
   },
   {
+    "name": "photogs"
+  },
+  {
     "name": "picus"
   },
   {
