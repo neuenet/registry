@@ -477,6 +477,9 @@ const domains = [
     "name": "libr"
   },
   {
+    "name": "lifelog"
+  },
+  {
     "name": "lovelounge"
   },
   {
@@ -739,6 +742,9 @@ const domains = [
   },
   {
     "name": "southpaw"
+  },
+  {
+    "name": "starbase"
   },
   {
     "name": "starboard"
