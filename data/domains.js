@@ -723,6 +723,9 @@ const domains = [
     "name": "scrobble"
   },
   {
+    "name": "scrobbler"
+  },
+  {
     "name": "scrot"
   },
   {
