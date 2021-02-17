@@ -6,6 +6,9 @@ const domains = [
     "name": "2077"
   },
   {
+    "name": "247366"
+  },
+  {
     "name": "2oo"
   },
   {
@@ -177,6 +180,9 @@ const domains = [
     "name": "casie"
   },
   {
+    "name": "caters"
+  },
+  {
     "name": "catt"
   },
   {
@@ -231,6 +237,9 @@ const domains = [
     "name": "creek"
   },
   {
+    "name": "crud"
+  },
+  {
     "name": "cursor"
   },
   {
@@ -280,6 +289,9 @@ const domains = [
   },
   {
     "name": "dmta"
+  },
+  {
+    "name": "doomscroll"
   },
   {
     "name": "dopameme"
@@ -346,6 +358,9 @@ const domains = [
   },
   {
     "name": "gingnet"
+  },
+  {
+    "name": "glaceon"
   },
   {
     "name": "glacier"
@@ -475,6 +490,9 @@ const domains = [
   },
   {
     "name": "libr"
+  },
+  {
+    "name": "lifelog"
   },
   {
     "name": "lovelounge"
@@ -702,6 +720,9 @@ const domains = [
     "name": "scrabbler"
   },
   {
+    "name": "scrobble"
+  },
+  {
     "name": "scrot"
   },
   {
@@ -739,6 +760,9 @@ const domains = [
   },
   {
     "name": "southpaw"
+  },
+  {
+    "name": "starbase"
   },
   {
     "name": "starboard"
