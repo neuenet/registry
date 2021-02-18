@@ -171,6 +171,9 @@ const domains = [
     "name": "bso"
   },
   {
+    "name": "butterball"
+  },
+  {
     "name": "buttsecks"
   },
   {
@@ -444,6 +447,9 @@ const domains = [
     "name": "iotas"
   },
   {
+    "name": "irongeek"
+  },
+  {
     "name": "isolay"
   },
   {
@@ -495,10 +501,19 @@ const domains = [
     "name": "lifelog"
   },
   {
+    "name": "lovefilm"
+  },
+  {
     "name": "lovelounge"
   },
   {
+    "name": "loverboi"
+  },
+  {
     "name": "lunch"
+  },
+  {
+    "name": "lunchables"
   },
   {
     "name": "lunchclub"
@@ -757,6 +772,9 @@ const domains = [
   },
   {
     "name": "skyvory"
+  },
+  {
+    "name": "softline"
   },
   {
     "name": "soundfont"
