@@ -321,6 +321,9 @@ const domains = [
     "name": "editor"
   },
   {
+    "name": "emperori"
+  },
+  {
     "name": "evicore"
   },
   {
@@ -907,6 +910,10 @@ const domains = [
     "unicode": "&deg;F"
   },
   {
+    "name": "xn--9x7d",
+    "unicode": "𓄿"
+  },
+  {
     "name": "xn--beaut-fsa",
     "unicode": "beauté"
   },
@@ -919,12 +926,20 @@ const domains = [
     "unicode": "developers<sup>3</sup>"
   },
   {
+    "name": "xn--ey7d",
+    "unicode": "𓅃"
+  },
+  {
     "name": "xn--gi8hva",
     "unicode": "🍑🍆"
   },
   {
     "name": "xn--izg",
     "unicode": "₩"
+  },
+  {
+    "name": "xn--mv7d",
+    "unicode": "𓃢"
   },
   {
     "name": "xn--p3h",
@@ -953,6 +968,10 @@ const domains = [
   {
     "name": "xn--seorita-5za",
     "unicode": "señorita"
+  },
+  {
+    "name": "xn--sj8d",
+    "unicode": "𓐍"
   },
   {
     "name": "xn--sothebys-ip3d",
