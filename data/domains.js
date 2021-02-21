@@ -66,6 +66,9 @@ const domains = [
     "name": "architech"
   },
   {
+    "name": "asterio"
+  },
+  {
     "name": "athene"
   },
   {
@@ -246,6 +249,9 @@ const domains = [
     "name": "cursor"
   },
   {
+    "name": "cusl"
+  },
+  {
     "name": "cyberpunkred"
   },
   {
@@ -385,6 +391,9 @@ const domains = [
   },
   {
     "name": "greenbook"
+  },
+  {
+    "name": "grundare"
   },
   {
     "name": "halide"
