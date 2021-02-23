@@ -108,6 +108,9 @@ const domains = [
     "name": "baldy"
   },
   {
+    "name": "balis"
+  },
+  {
     "name": "ballistics"
   },
   {
@@ -231,6 +234,9 @@ const domains = [
     "name": "colors"
   },
   {
+    "name": "congeal"
+  },
+  {
     "name": "conglomerate"
   },
   {
@@ -328,6 +334,9 @@ const domains = [
   },
   {
     "name": "emperori"
+  },
+  {
+    "name": "endpoints"
   },
   {
     "name": "evicore"
@@ -522,6 +531,9 @@ const domains = [
     "name": "loverboi"
   },
   {
+    "name": "loverboy"
+  },
+  {
     "name": "lunch"
   },
   {
@@ -678,6 +690,9 @@ const domains = [
     "name": "ponderings"
   },
   {
+    "name": "prefrontal"
+  },
+  {
     "name": "proletarian"
   },
   {
@@ -781,6 +796,9 @@ const domains = [
   },
   {
     "name": "shinra"
+  },
+  {
+    "name": "shuttlecraft"
   },
   {
     "name": "skyvory"
