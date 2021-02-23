@@ -582,6 +582,12 @@ const domains = [
     "name": "moemoe"
   },
   {
+    "name": "moodring"
+  },
+  {
+    "name": "moodrings"
+  },
+  {
     "name": "muramasa"
   },
   {
@@ -765,7 +771,13 @@ const domains = [
     "name": "scrobble"
   },
   {
+    "name": "scrobbled"
+  },
+  {
     "name": "scrobbler"
+  },
+  {
+    "name": "scrobbles"
   },
   {
     "name": "scrot"
@@ -823,6 +835,9 @@ const domains = [
   },
   {
     "name": "sugoidekai"
+  },
+  {
+    "name": "sushirrito"
   },
   {
     "name": "symbols"
