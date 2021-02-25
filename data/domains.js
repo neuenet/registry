@@ -1,5 +1,8 @@
 const domains = [
   {
+    "name": "0451"
+  },
+  {
     "name": "0x01"
   },
   {
@@ -103,6 +106,9 @@ const domains = [
   },
   {
     "name": "baggy"
+  },
+  {
+    "name": "balc"
   },
   {
     "name": "baldy"
@@ -219,7 +225,13 @@ const domains = [
     "name": "chroot"
   },
   {
+    "name": "chub"
+  },
+  {
     "name": "cobrakai"
+  },
+  {
+    "name": "cocu"
   },
   {
     "name": "coda"
@@ -376,6 +388,9 @@ const domains = [
   },
   {
     "name": "germantown"
+  },
+  {
+    "name": "gesicht"
   },
   {
     "name": "gingnet"
@@ -699,6 +714,9 @@ const domains = [
     "name": "prefrontal"
   },
   {
+    "name": "programtek"
+  },
+  {
     "name": "proletarian"
   },
   {
@@ -837,6 +855,9 @@ const domains = [
     "name": "sugoidekai"
   },
   {
+    "name": "supers"
+  },
+  {
     "name": "sushirrito"
   },
   {
@@ -847,6 +868,9 @@ const domains = [
   },
   {
     "name": "tachyon"
+  },
+  {
+    "name": "tadalist"
   },
   {
     "name": "taiyong"
