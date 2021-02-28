@@ -42,28 +42,28 @@
       }
 
       @font-face {
-        font-family: "neunet-sans";
+        font-family: "neuenet-sans";
         font-style: normal;
         font-weight: 400;
         src: url("/assets/fonts/sans/400.woff2") format("woff2");
       }
 
       @font-face {
-        font-family: "neunet-sans";
+        font-family: "neuenet-sans";
         font-style: italic;
         font-weight: 400;
         src: url("/assets/fonts/sans/400i.woff2") format("woff2");
       }
 
       @font-face {
-        font-family: "neunet-sans";
+        font-family: "neuenet-sans";
         font-style: normal;
         font-weight: 600;
         src: url("/assets/fonts/sans/600.woff2") format("woff2");
       }
 
       @font-face {
-        font-family: "neunet-sans";
+        font-family: "neuenet-sans";
         font-style: italic;
         font-weight: 600;
         src: url("/assets/fonts/sans/600i.woff2") format("woff2");
@@ -321,21 +321,33 @@
         font-weight: 600;
       }
 
-      @media (min-width: 1351px) and (max-width: 1900px) {
+      @media (min-width: 1901px) {
+        .domains {
+          --grid-tc: repeat(6, 1fr) !important;
+        }
+      }
+
+      @media (min-width: 1451px) and (max-width: 1900px) {
         .domains {
           --grid-tc: repeat(5, 1fr) !important;
         }
       }
 
-      @media (min-width: 1051px) and (max-width: 1350px) {
+      @media (min-width: 1251px) and (max-width: 1450px) {
         .domains {
           --grid-tc: repeat(4, 1fr) !important;
         }
       }
 
-      @media (min-width: 601px) and (max-width: 1050px) {
+      @media (min-width: 1001px) and (max-width: 1250px) {
         .domains {
           --grid-tc: repeat(3, 1fr) !important;
+        }
+      }
+
+      @media (min-width: 601px) and (max-width: 1000px) {
+        .domains {
+          --grid-tc: repeat(2, 1fr) !important;
         }
       }
 
@@ -347,19 +359,17 @@
 
       /* .copy ********************************************/
 
+      .copy {
+        max-width: 800px;
+      }
+
       @media (min-width: 1141px) and (max-width: 1500px) {
         .copy {
-          --grid-ce: 4 !important;
+          --grid-ce: 6 !important;
         }
       }
 
-      @media (min-width: 931px) and (max-width: 1140px) {
-        .copy {
-          --grid-ce: 5 !important;
-        }
-      }
-
-      @media (max-width: 930px) {
+      @media (max-width: 1140px) {
         .copy {
           --grid-ce: 8 !important;
         }

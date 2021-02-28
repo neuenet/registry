@@ -150,6 +150,9 @@ const domains = [
     "name": "besos"
   },
   {
+    "name": "biabou"
+  },
+  {
     "name": "biochip"
   },
   {
@@ -208,6 +211,9 @@ const domains = [
   },
   {
     "name": "cetra"
+  },
+  {
+    "name": "chacao"
   },
   {
     "name": "cherub"
@@ -349,6 +355,9 @@ const domains = [
   },
   {
     "name": "endpoints"
+  },
+  {
+    "name": "eurodollars"
   },
   {
     "name": "evicore"
@@ -711,6 +720,9 @@ const domains = [
     "name": "ponderings"
   },
   {
+    "name": "prefront"
+  },
+  {
     "name": "prefrontal"
   },
   {
@@ -810,6 +822,9 @@ const domains = [
     "name": "secondbrain"
   },
   {
+    "name": "settai"
+  },
+  {
     "name": "sevchenko"
   },
   {
@@ -889,6 +904,12 @@ const domains = [
   },
   {
     "name": "thrust"
+  },
+  {
+    "name": "tinywin"
+  },
+  {
+    "name": "tinywins"
   },
   {
     "name": "transmit"
