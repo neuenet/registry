@@ -48,6 +48,9 @@ const domains = [
     "name": "alladat"
   },
   {
+    "name": "allnice"
+  },
+  {
     "name": "altrecht"
   },
   {
@@ -153,6 +156,9 @@ const domains = [
     "name": "biabou"
   },
   {
+    "name": "bigblackdick"
+  },
+  {
     "name": "biochip"
   },
   {
@@ -184,9 +190,6 @@ const domains = [
   },
   {
     "name": "bso"
-  },
-  {
-    "name": "butterball"
   },
   {
     "name": "buttsecks"
@@ -270,6 +273,12 @@ const domains = [
     "name": "crud"
   },
   {
+    "name": "cryptocatt"
+  },
+  {
+    "name": "cryptokat"
+  },
+  {
     "name": "cursor"
   },
   {
@@ -301,6 +310,9 @@ const domains = [
   },
   {
     "name": "dedwarez"
+  },
+  {
+    "name": "dehost"
   },
   {
     "name": "demasu"
@@ -357,7 +369,13 @@ const domains = [
     "name": "endpoints"
   },
   {
+    "name": "enthuse"
+  },
+  {
     "name": "eurodollars"
+  },
+  {
+    "name": "everbank"
   },
   {
     "name": "evicore"
@@ -462,6 +480,9 @@ const domains = [
     "name": "hyphen"
   },
   {
+    "name": "illos"
+  },
+  {
     "name": "illuminatus"
   },
   {
@@ -546,6 +567,12 @@ const domains = [
     "name": "lifelog"
   },
   {
+    "name": "liss"
+  },
+  {
+    "name": "llap"
+  },
+  {
     "name": "lovefilm"
   },
   {
@@ -561,9 +588,6 @@ const domains = [
     "name": "lunch"
   },
   {
-    "name": "lunchables"
-  },
-  {
     "name": "lunchclub"
   },
   {
@@ -577,6 +601,9 @@ const domains = [
   },
   {
     "name": "margoulis"
+  },
+  {
+    "name": "mariquita"
   },
   {
     "name": "marshmallow"
@@ -610,6 +637,9 @@ const domains = [
   },
   {
     "name": "moodrings"
+  },
+  {
+    "name": "mtpc"
   },
   {
     "name": "muramasa"
@@ -777,6 +807,9 @@ const domains = [
     "name": "roster"
   },
   {
+    "name": "runi"
+  },
+  {
     "name": "ruo"
   },
   {
@@ -822,6 +855,9 @@ const domains = [
     "name": "secondbrain"
   },
   {
+    "name": "seganet"
+  },
+  {
     "name": "settai"
   },
   {
@@ -841,6 +877,9 @@ const domains = [
   },
   {
     "name": "shinra"
+  },
+  {
+    "name": "shoptld"
   },
   {
     "name": "shuttlecraft"
@@ -868,6 +907,9 @@ const domains = [
   },
   {
     "name": "sugoidekai"
+  },
+  {
+    "name": "superevilmegacorp"
   },
   {
     "name": "supers"
@@ -900,6 +942,9 @@ const domains = [
     "name": "teau"
   },
   {
+    "name": "telecity"
+  },
+  {
     "name": "theblackfriday"
   },
   {
@@ -910,6 +955,9 @@ const domains = [
   },
   {
     "name": "tinywins"
+  },
+  {
+    "name": "toonsquad"
   },
   {
     "name": "transmit"
@@ -984,6 +1032,9 @@ const domains = [
     "name": "zenbase"
   },
   {
+    "name": "zenful"
+  },
+  {
     "name": "zenny"
   },
   {
@@ -991,6 +1042,22 @@ const domains = [
   },
   {
     "name": "zwl"
+  },
+  {
+    "name": "xn--21b0dsbk",
+    "unicode": "खुला"
+  },
+  {
+    "name": "xn--71b1bn0d",
+    "unicode": "मछली"
+  },
+  {
+    "name": "xn--80akhbyknj4f",
+    "unicode": "испытание"
+  },
+  {
+    "name": "xn--81b5at4ch",
+    "unicode": "बिजली"
   },
   {
     "name": "xn--81g",
@@ -1009,6 +1076,10 @@ const domains = [
     "unicode": "👽"
   },
   {
+    "name": "xn--deba0ad",
+    "unicode": "טעסט"
+  },
+  {
     "name": "xn--developers-lqa",
     "unicode": "developers<sup>3</sup>"
   },
@@ -1017,12 +1088,44 @@ const domains = [
     "unicode": "𓅃"
   },
   {
+    "name": "xn--g6w251d",
+    "unicode": "測試"
+  },
+  {
     "name": "xn--gi8hva",
     "unicode": "🍑🍆"
   },
   {
+    "name": "xn--h2b7aj1b6c",
+    "unicode": "वस्तु"
+  },
+  {
+    "name": "xn--h2bl5bgy2g",
+    "unicode": "सप्ताह"
+  },
+  {
+    "name": "xn--h2bwd9c6b",
+    "unicode": "तैयार"
+  },
+  {
+    "name": "xn--hgbk6aj7f53bba",
+    "unicode": "آزمایشی"
+  },
+  {
+    "name": "xn--hlcj6aya9esc7a",
+    "unicode": "பரிட்சை"
+  },
+  {
     "name": "xn--izg",
     "unicode": "₩"
+  },
+  {
+    "name": "xn--jxalpdlp",
+    "unicode": "δοκιμή"
+  },
+  {
+    "name": "xn--kgbechtv",
+    "unicode": "إختبار"
   },
   {
     "name": "xn--mv7d",
@@ -1059,9 +1162,5 @@ const domains = [
   {
     "name": "xn--sj8d",
     "unicode": "𓐍"
-  },
-  {
-    "name": "xn--sothebys-ip3d",
-    "unicode": "sotheby’s"
   }
 ];
