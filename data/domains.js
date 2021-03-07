@@ -12,6 +12,9 @@ const domains = [
     "name": "247366"
   },
   {
+    "name": "24hrs"
+  },
+  {
     "name": "2oo"
   },
   {
@@ -427,6 +430,9 @@ const domains = [
   },
   {
     "name": "glacier"
+  },
+  {
+    "name": "goldeye"
   },
   {
     "name": "goldwind"
