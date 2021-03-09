@@ -744,9 +744,6 @@ const domains = [
     "name": "pigeon"
   },
   {
-    "name": "pigment"
-  },
-  {
     "name": "podspot"
   },
   {
