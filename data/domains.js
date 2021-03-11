@@ -27,6 +27,9 @@ const domains = [
     "name": "abilao"
   },
   {
+    "name": "acappella"
+  },
+  {
     "name": "adamjensen"
   },
   {
@@ -405,6 +408,9 @@ const domains = [
     "name": "flourchild"
   },
   {
+    "name": "fowa"
+  },
+  {
     "name": "freshprince"
   },
   {
@@ -493,6 +499,9 @@ const domains = [
   },
   {
     "name": "illumines"
+  },
+  {
+    "name": "immudb"
   },
   {
     "name": "impresario"
@@ -786,6 +795,9 @@ const domains = [
     "name": "pynk"
   },
   {
+    "name": "qras"
+  },
+  {
     "name": "quiescence"
   },
   {
@@ -888,6 +900,9 @@ const domains = [
     "name": "shuttlecraft"
   },
   {
+    "name": "skyridge"
+  },
+  {
     "name": "skyvory"
   },
   {
@@ -919,6 +934,9 @@ const domains = [
   },
   {
     "name": "sushirrito"
+  },
+  {
+    "name": "swiftui"
   },
   {
     "name": "symbols"
@@ -994,6 +1012,9 @@ const domains = [
   },
   {
     "name": "vellum"
+  },
+  {
+    "name": "voru"
   },
   {
     "name": "wagwan"
