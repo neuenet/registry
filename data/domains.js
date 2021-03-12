@@ -699,9 +699,6 @@ const domains = [
     "name": "nightmarket"
   },
   {
-    "name": "nisar"
-  },
-  {
     "name": "nonsequitur"
   },
   {
