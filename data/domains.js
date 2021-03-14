@@ -297,6 +297,9 @@ const domains = [
     "name": "dacoity"
   },
   {
+    "name": "datafutures"
+  },
+  {
     "name": "datarius"
   },
   {
@@ -339,6 +342,9 @@ const domains = [
     "name": "disrespect"
   },
   {
+    "name": "dist"
+  },
+  {
     "name": "dmta"
   },
   {
@@ -367,6 +373,9 @@ const domains = [
   },
   {
     "name": "editor"
+  },
+  {
+    "name": "elago"
   },
   {
     "name": "emperori"
