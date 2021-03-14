@@ -732,6 +732,9 @@ const domains = [
     "name": "paragium"
   },
   {
+    "name": "params"
+  },
+  {
     "name": "peps"
   },
   {
@@ -904,6 +907,9 @@ const domains = [
   },
   {
     "name": "shuttlecraft"
+  },
+  {
+    "name": "sicksadworld"
   },
   {
     "name": "skyridge"
