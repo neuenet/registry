@@ -3,6 +3,9 @@ const domains = [
     "name": "0451"
   },
   {
+    "name": "07d0eb"
+  },
+  {
     "name": "0x01"
   },
   {
@@ -31,6 +34,9 @@ const domains = [
   },
   {
     "name": "adamjensen"
+  },
+  {
+    "name": "adblockers"
   },
   {
     "name": "adults"
@@ -145,6 +151,9 @@ const domains = [
   },
   {
     "name": "battlechip"
+  },
+  {
+    "name": "bawse"
   },
   {
     "name": "beathaus"
@@ -285,6 +294,15 @@ const domains = [
     "name": "cryptokat"
   },
   {
+    "name": "ctos"
+  },
+  {
+    "name": "cumguzzlers"
+  },
+  {
+    "name": "cumsluts"
+  },
+  {
     "name": "cursor"
   },
   {
@@ -321,10 +339,19 @@ const domains = [
     "name": "dedwarez"
   },
   {
+    "name": "deepthrust"
+  },
+  {
+    "name": "deepthrusts"
+  },
+  {
     "name": "dehost"
   },
   {
     "name": "demasu"
+  },
+  {
+    "name": "demex"
   },
   {
     "name": "deusex"
@@ -364,6 +391,9 @@ const domains = [
   },
   {
     "name": "dscd"
+  },
+  {
+    "name": "duki"
   },
   {
     "name": "dynacore"
@@ -426,6 +456,9 @@ const domains = [
     "name": "gabs"
   },
   {
+    "name": "gameai"
+  },
+  {
     "name": "garterbelt"
   },
   {
@@ -477,7 +510,19 @@ const domains = [
     "name": "hexa"
   },
   {
+    "name": "hieroglyph"
+  },
+  {
+    "name": "hieroglyphic"
+  },
+  {
+    "name": "hieroglyphs"
+  },
+  {
     "name": "highball"
+  },
+  {
+    "name": "hotwives"
   },
   {
     "name": "hsla"
@@ -522,6 +567,12 @@ const domains = [
     "name": "indexdb"
   },
   {
+    "name": "infocenter"
+  },
+  {
+    "name": "infolink"
+  },
+  {
     "name": "insipid"
   },
   {
@@ -562,6 +613,9 @@ const domains = [
   },
   {
     "name": "labia"
+  },
+  {
+    "name": "labio"
   },
   {
     "name": "laet"
@@ -651,6 +705,9 @@ const domains = [
     "name": "mftll"
   },
   {
+    "name": "mindstorm"
+  },
+  {
     "name": "mindstorms"
   },
   {
@@ -711,6 +768,9 @@ const domains = [
     "name": "nonsequitur"
   },
   {
+    "name": "notos"
+  },
+  {
     "name": "nuba"
   },
   {
@@ -726,6 +786,9 @@ const domains = [
     "name": "pacote"
   },
   {
+    "name": "paizuri"
+  },
+  {
     "name": "palisade"
   },
   {
@@ -733,6 +796,9 @@ const domains = [
   },
   {
     "name": "params"
+  },
+  {
+    "name": "parsehub"
   },
   {
     "name": "peps"
@@ -801,6 +867,9 @@ const domains = [
     "name": "punycoder"
   },
   {
+    "name": "purityfirst"
+  },
+  {
     "name": "pynk"
   },
   {
@@ -831,6 +900,9 @@ const domains = [
     "name": "roster"
   },
   {
+    "name": "route69"
+  },
+  {
     "name": "runi"
   },
   {
@@ -838,6 +910,9 @@ const domains = [
   },
   {
     "name": "sailorwave"
+  },
+  {
+    "name": "saltswap"
   },
   {
     "name": "sarif"
@@ -918,6 +993,9 @@ const domains = [
     "name": "skyvory"
   },
   {
+    "name": "slake"
+  },
+  {
     "name": "softline"
   },
   {
@@ -934,6 +1012,9 @@ const domains = [
   },
   {
     "name": "starmada"
+  },
+  {
+    "name": "structs"
   },
   {
     "name": "sugoidekai"
@@ -990,6 +1071,9 @@ const domains = [
     "name": "tinywins"
   },
   {
+    "name": "tittyfucks"
+  },
+  {
     "name": "toonsquad"
   },
   {
@@ -1012,6 +1096,9 @@ const domains = [
   },
   {
     "name": "uranet"
+  },
+  {
+    "name": "uxcam"
   },
   {
     "name": "uzy"
@@ -1063,6 +1150,9 @@ const domains = [
   },
   {
     "name": "xra"
+  },
+  {
+    "name": "zefo"
   },
   {
     "name": "zenbase"
@@ -1138,6 +1228,10 @@ const domains = [
   {
     "name": "xn--h2bl5bgy2g",
     "unicode": "सप्ताह"
+  },
+  {
+    "name": "xn--h2bpk3db",
+    "unicode": "बताया"
   },
   {
     "name": "xn--h2bwd9c6b",
