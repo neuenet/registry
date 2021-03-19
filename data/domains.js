@@ -885,6 +885,9 @@ const domains = [
     "name": "rebreather"
   },
   {
+    "name": "revu"
+  },
+  {
     "name": "ridgewood"
   },
   {
@@ -1015,6 +1018,9 @@ const domains = [
   },
   {
     "name": "structs"
+  },
+  {
+    "name": "stylefile"
   },
   {
     "name": "sugoidekai"
