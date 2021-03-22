@@ -504,6 +504,9 @@ const domains = [
     "name": "halide"
   },
   {
+    "name": "handyname"
+  },
+  {
     "name": "hengshan"
   },
   {
@@ -999,6 +1002,9 @@ const domains = [
     "name": "slake"
   },
   {
+    "name": "slanguage"
+  },
+  {
     "name": "softline"
   },
   {
@@ -1069,6 +1075,9 @@ const domains = [
   },
   {
     "name": "thrust"
+  },
+  {
+    "name": "tiddies"
   },
   {
     "name": "tinywin"
@@ -1156,6 +1165,9 @@ const domains = [
   },
   {
     "name": "xra"
+  },
+  {
+    "name": "xref"
   },
   {
     "name": "zefo"
