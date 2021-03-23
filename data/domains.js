@@ -30,7 +30,7 @@ const domains = [
     "name": "abilao"
   },
   {
-    "name": "acappella"
+    "name": "acapella"
   },
   {
     "name": "adamjensen"
