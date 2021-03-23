@@ -456,6 +456,9 @@ const domains = [
     "name": "freshprince"
   },
   {
+    "name": "futuros"
+  },
+  {
     "name": "gabs"
   },
   {
@@ -1071,6 +1074,9 @@ const domains = [
     "name": "teau"
   },
   {
+    "name": "technobabble"
+  },
+  {
     "name": "telecity"
   },
   {
@@ -1285,6 +1291,10 @@ const domains = [
   {
     "name": "xn--p3h",
     "unicode": "★"
+  },
+  {
+    "name": "xn--pr9hoa",
+    "unicode": "🥓🥚"
   },
   {
     "name": "xn--rca",
