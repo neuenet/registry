@@ -33,6 +33,9 @@ const domains = [
     "name": "acapella"
   },
   {
+    "name": "acappella"
+  },
+  {
     "name": "adamjensen"
   },
   {
