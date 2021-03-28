@@ -1032,6 +1032,9 @@ const domains = [
     "name": "starmada"
   },
   {
+    "name": "structs"
+  },
+  {
     "name": "stylefile"
   },
   {
@@ -1078,6 +1081,9 @@ const domains = [
   },
   {
     "name": "telecity"
+  },
+  {
+    "name": "telephoto"
   },
   {
     "name": "theblackfriday"
