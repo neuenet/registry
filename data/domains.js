@@ -87,6 +87,9 @@ const domains = [
     "name": "architech"
   },
   {
+    "name": "arsehole"
+  },
+  {
     "name": "asterio"
   },
   {
@@ -1029,9 +1032,6 @@ const domains = [
     "name": "starmada"
   },
   {
-    "name": "structs"
-  },
-  {
     "name": "stylefile"
   },
   {
@@ -1146,6 +1146,9 @@ const domains = [
     "name": "waists"
   },
   {
+    "name": "waveform"
+  },
+  {
     "name": "wayan"
   },
   {
@@ -1165,6 +1168,9 @@ const domains = [
   },
   {
     "name": "websurf"
+  },
+  {
+    "name": "whizbang"
   },
   {
     "name": "wibbly"
@@ -1291,6 +1297,10 @@ const domains = [
   {
     "name": "xn--p3h",
     "unicode": "★"
+  },
+  {
+    "name": "xn--pn8h7e",
+    "unicode": "👏🏾"
   },
   {
     "name": "xn--pr9hoa",
