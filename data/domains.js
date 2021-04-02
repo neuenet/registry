@@ -456,9 +456,6 @@ const domains = [
     "name": "faridahmalik"
   },
   {
-    "name": "favourite"
-  },
-  {
     "name": "flourchild"
   },
   {
@@ -1162,9 +1159,6 @@ const domains = [
   },
   {
     "name": "waveform"
-  },
-  {
-    "name": "wayan"
   },
   {
     "name": "wayfinder"
