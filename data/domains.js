@@ -1056,6 +1056,9 @@ const domains = [
     "name": "sushirrito"
   },
   {
+    "name": "svpply"
+  },
+  {
     "name": "swiftui"
   },
   {
