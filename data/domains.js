@@ -219,6 +219,9 @@ const domains = [
     "name": "caneco"
   },
   {
+    "name": "canvass"
+  },
+  {
     "name": "casie"
   },
   {
@@ -283,6 +286,9 @@ const domains = [
   },
   {
     "name": "conspiracies"
+  },
+  {
+    "name": "corsage"
   },
   {
     "name": "creamtube"
@@ -433,6 +439,9 @@ const domains = [
   },
   {
     "name": "exclamation"
+  },
+  {
+    "name": "exogen"
   },
   {
     "name": "external"
@@ -771,6 +780,9 @@ const domains = [
     "name": "neuralweave"
   },
   {
+    "name": "newline"
+  },
+  {
     "name": "newportcity"
   },
   {
@@ -784,9 +796,6 @@ const domains = [
   },
   {
     "name": "nuba"
-  },
-  {
-    "name": "numeric"
   },
   {
     "name": "odysee"
