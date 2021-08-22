@@ -1,9 +1,14 @@
-# OS
+# OS garbage
 .DS_Store
 Thumbs.db
 
-# File
-package-lock.json
+# Files
+*.css.map
+*.lock
+*.log
 
-# Folder
+# Folders
+.svelte-kit
+build
+dist
 node_modules

@@ -1,0 +1,8 @@
+# https://www.robotstxt.org/robotstxt.html
+# Fuck Google
+
+User-agent: Google
+Disallow: /
+
+User-agent: *
+Allow: /

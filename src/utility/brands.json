@@ -1,0 +1,212 @@
+[
+  {
+    "ascii": "anycloud",
+    "mature": false,
+    "name": "anycloud"
+  },
+  {
+    "ascii": "barwise",
+    "mature": false,
+    "name": "barwise"
+  },
+  {
+    "ascii": "biogene",
+    "mature": false,
+    "name": "biogene"
+  },
+  {
+    "ascii": "biotechnica",
+    "mature": false,
+    "name": "biotechnica"
+  },
+  {
+    "ascii": "blogarama",
+    "mature": false,
+    "name": "blogarama"
+  },
+  {
+    "ascii": "cannabistoken",
+    "mature": false,
+    "name": "cannabistoken"
+  },
+  {
+    "ascii": "codegear",
+    "mature": false,
+    "name": "codegear"
+  },
+  {
+    "ascii": "colorware",
+    "mature": false,
+    "name": "colorware"
+  },
+  {
+    "ascii": "crestline",
+    "mature": false,
+    "name": "crestline"
+  },
+  {
+    "ascii": "daotoken",
+    "mature": false,
+    "name": "daotoken"
+  },
+  {
+    "ascii": "deutschemark",
+    "mature": false,
+    "name": "deutschemark"
+  },
+  {
+    "ascii": "xn--developers-lqa",
+    "mature": false,
+    "name": "developers³"
+  },
+  {
+    "ascii": "drivr",
+    "mature": false,
+    "name": "drivr"
+  },
+  {
+    "ascii": "etocoin",
+    "mature": false,
+    "name": "etocoin"
+  },
+  {
+    "ascii": "everbank",
+    "mature": false,
+    "name": "everbank"
+  },
+  {
+    "ascii": "flourchild",
+    "mature": false,
+    "name": "flourchild"
+  },
+  {
+    "ascii": "getfile",
+    "mature": false,
+    "name": "getfile"
+  },
+  {
+    "ascii": "getfiles",
+    "mature": false,
+    "name": "getfiles"
+  },
+  {
+    "ascii": "xn--glasshtte-v9a",
+    "mature": false,
+    "name": "glasshütte"
+  },
+  {
+    "ascii": "greenback",
+    "mature": false,
+    "name": "greenback"
+  },
+  {
+    "ascii": "greenbook",
+    "mature": false,
+    "name": "greenbook"
+  },
+  {
+    "ascii": "hacoin",
+    "mature": false,
+    "name": "hacoin"
+  },
+  {
+    "ascii": "highball",
+    "mature": true,
+    "name": "highball"
+  },
+  {
+    "ascii": "hocoin",
+    "mature": false,
+    "name": "hocoin"
+  },
+  {
+    "ascii": "hucoin",
+    "mature": false,
+    "name": "hucoin"
+  },
+  {
+    "ascii": "lifelog",
+    "mature": false,
+    "name": "lifelog"
+  },
+  {
+    "ascii": "lovelounge",
+    "mature": false,
+    "name": "lovelounge"
+  },
+  {
+    "ascii": "lunchclub",
+    "mature": false,
+    "name": "lunchclub"
+  },
+  {
+    "ascii": "novalis",
+    "mature": false,
+    "name": "novalis"
+  },
+  {
+    "ascii": "office24",
+    "mature": false,
+    "name": "office24"
+  },
+  {
+    "ascii": "smartr",
+    "mature": false,
+    "name": "smartr"
+  },
+  {
+    "ascii": "starbase",
+    "mature": false,
+    "name": "starbase"
+  },
+  {
+    "ascii": "stickynote",
+    "mature": false,
+    "name": "stickynote"
+  },
+  {
+    "ascii": "stylefile",
+    "mature": false,
+    "name": "stylefile"
+  },
+  {
+    "ascii": "superevilmegacorp",
+    "mature": false,
+    "name": "superevilmegacorp"
+  },
+  {
+    "ascii": "sweetleaf",
+    "mature": false,
+    "name": "sweetleaf"
+  },
+  {
+    "ascii": "tadalist",
+    "mature": false,
+    "name": "tadalist"
+  },
+  {
+    "ascii": "tasky",
+    "mature": false,
+    "name": "tasky"
+  },
+  {
+    "ascii": "trueblue",
+    "mature": false,
+    "name": "trueblue"
+  },
+  {
+    "ascii": "weedcoin",
+    "mature": false,
+    "name": "weedcoin"
+  },
+  {
+    "ascii": "zenful",
+    "mature": false,
+    "name": "zenful"
+  },
+  {
+    "ascii": "zenid",
+    "mature": false,
+    "name": "zenid"
+  }
+]

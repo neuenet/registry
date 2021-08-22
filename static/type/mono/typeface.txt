@@ -1,0 +1,9 @@
+JetBrains Mono
+
+100 - ExtraLight
+200 - Light
+300 - SemiLight
+400 - Regular
+500 - Medium
+600 - Bold
+700 - ExtraBold

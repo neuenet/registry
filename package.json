@@ -1,0 +1,61 @@
+{
+  "author": {
+    "name": "netop://ウエハ",
+    "url": "https://registry.neuenet"
+  },
+  "dependencies": {
+    "@webb/console": "^2021.5.28",
+    "polka": "^0.5.2"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-node": "^1.0.0-next.43",
+    "@sveltejs/kit": "next",
+    "@tsconfig/svelte": "^2.0.1",
+    "@types/node": "^16.7.1",
+    "@webb/config-nyc": "^2021.5.28",
+    "@webb/test": "^2021.5.28",
+    "chronver": "^2020.6.18",
+    "del-cli": "^4.0.1",
+    "editorconfig-checker": "^4.0.2",
+    "husky": "7.0.1",
+    "npm-run-all": "^4.1.5",
+    "prepend-file": "^2.0.0",
+    "prettier": "~2.3.2",
+    "prettier-plugin-svelte": "^2.3.1",
+    "replace-in-file": "^6.2.0",
+    "sass": "^1.38.0",
+    "sass-lint": "^1.13.1",
+    "stylelint": "^13.13.1",
+    "stylelint-order": "^4.1.0",
+    "svelte": "^3.42.2",
+    "svelte-check": "^2.2.4",
+    "svelte-preprocess": "^4.7.4",
+    "tslib": "^2.3.1",
+    "typescript": "^4.3.5",
+    "updates": "^12.1.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "name": "neuenet-registry",
+  "private": true,
+  "scripts": {
+    "build": "npm run clean;npm run render;svelte-kit build;npm run pre-start",
+    "clean": "del './build' './static/uchu-grid*'",
+    "increment": "chronver --increment package",
+    "pre-commit": "npm run test:svelte && npm run build && npm run increment && git add -A :/",
+    "pre-start": "node patch-start.mjs",
+    "preview": "svelte-kit preview --port 3210",
+    "render": "sass sass/uchu:static --style compressed",
+    "start": "npm i;npm run build;PORT=3210 SETTINGS=production node build/index.js",
+    "test": "run-s test:*",
+    "test:dependencies": "updates --update ./",
+    "test:svelte": "svelte-check",
+    "test:typescript": "tsc --noEmit",
+    "watch": "npm run render && run-p watch:*",
+    "watch:develop": "SETTINGS=development svelte-kit dev --port 3210 --host --open",
+    "watch:sass": "sass --watch sass/uchu:static --style compressed"
+  },
+  "type": "module",
+  "version": "2021.08.22.2"
+}
