@@ -140,6 +140,11 @@
     "name": "andme"
   },
   {
+    "ascii": "ani",
+    "mature": false,
+    "name": "ani"
+  },
+  {
     "ascii": "antennae",
     "mature": false,
     "name": "antennae"
@@ -203,6 +208,11 @@
     "ascii": "avif",
     "mature": false,
     "name": "avif"
+  },
+  {
+    "ascii": "avir",
+    "mature": false,
+    "name": "avir"
   },
   {
     "ascii": "await",
@@ -571,6 +581,11 @@
     "name": "cherub"
   },
   {
+    "ascii": "chet",
+    "mature": false,
+    "name": "chet"
+  },
+  {
     "ascii": "chocolatethunder",
     "mature": true,
     "name": "chocolatethunder"
@@ -634,6 +649,11 @@
     "ascii": "conglomerate",
     "mature": false,
     "name": "conglomerate"
+  },
+  {
+    "ascii": "cori",
+    "mature": false,
+    "name": "cori"
   },
   {
     "ascii": "coroutine",
@@ -3444,12 +3464,6 @@
     "mature": false,
     "name": "معامله",
     "translation": "transaction"
-  },
-  {
-    "ascii": "xn--mgb9a8al",
-    "mature": false,
-    "name": "عاهل",
-    "translation": "king"
   },
   {
     "ascii": "xn--mgba2a0fef84ga",
