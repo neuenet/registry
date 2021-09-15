@@ -180,6 +180,16 @@
     "name": "asterio"
   },
   {
+    "ascii": "astronautica",
+    "mature": false,
+    "name": "astronautica"
+  },
+  {
+    "ascii": "astronautical",
+    "mature": false,
+    "name": "astronautical"
+  },
+  {
     "ascii": "athene",
     "mature": false,
     "name": "athene"
@@ -338,6 +348,16 @@
     "ascii": "baremetal",
     "mature": false,
     "name": "baremetal"
+  },
+  {
+    "ascii": "bareserver",
+    "mature": false,
+    "name": "bareserver"
+  },
+  {
+    "ascii": "bareservers",
+    "mature": false,
+    "name": "bareservers"
   },
   {
     "ascii": "barnacle",
@@ -1766,6 +1786,11 @@
     "name": "marshmallow"
   },
   {
+    "ascii": "marvelous",
+    "mature": false,
+    "name": "marvelous"
+  },
+  {
     "ascii": "maru",
     "mature": false,
     "name": "maru"
@@ -1816,6 +1841,11 @@
     "name": "mideast"
   },
   {
+    "ascii": "millenium",
+    "mature": false,
+    "name": "millenium"
+  },
+  {
     "ascii": "milliamp",
     "mature": false,
     "name": "milliamp"
@@ -1824,6 +1854,11 @@
     "ascii": "millihenry",
     "mature": false,
     "name": "millihenry"
+  },
+  {
+    "ascii": "millivolt",
+    "mature": false,
+    "name": "millivolt"
   },
   {
     "ascii": "mindsight",

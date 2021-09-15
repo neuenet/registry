@@ -275,11 +275,6 @@
     "name": "sophya"
   },
   {
-    "ascii": "stevenabbagnaro",
-    "mature": false,
-    "name": "stevenabbagnaro"
-  },
-  {
     "ascii": "tahirmoore",
     "mature": false,
     "name": "tahirmoore"
@@ -293,6 +288,11 @@
     "ascii": "terrorsquad",
     "mature": false,
     "name": "terrorsquad"
+  },
+  {
+    "ascii": "thoom",
+    "mature": false,
+    "name": "thoom"
   },
   {
     "ascii": "tonybaker",
@@ -328,10 +328,5 @@
     "ascii": "zoltanistvan",
     "mature": false,
     "name": "zoltanistvan"
-  },
-  {
-    "ascii": "xn--wba9228j",
-    "mature": false,
-    "name": "¹"
   }
 ]

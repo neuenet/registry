@@ -50,6 +50,11 @@
     "name": "daotoken"
   },
   {
+    "ascii": "datalove",
+    "mature": false,
+    "name": "datalove"
+  },
+  {
     "ascii": "deutschemark",
     "mature": false,
     "name": "deutschemark"
@@ -188,6 +193,11 @@
     "ascii": "tasky",
     "mature": false,
     "name": "tasky"
+  },
+  {
+    "ascii": "tetraverse",
+    "mature": false,
+    "name": "tetraverse"
   },
   {
     "ascii": "trueblue",
