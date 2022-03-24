@@ -19,7 +19,6 @@
     "sourceMap": true,
     "target": "es2019"
   },
-  "extends": "./.svelte-kit/tsconfig.json",
   "include": [
     "src/**/*.d.ts",
     "src/**/*.js",

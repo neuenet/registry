@@ -4,7 +4,7 @@
 
   /// function
   $: isActive = (suppliedPath: string) => {
-    if ($page.url.pathname === `/${suppliedPath}`)
+    if ($page.url && $page.url.pathname === `/${suppliedPath}`)
       return true;
     else
       return false;
