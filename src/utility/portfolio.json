@@ -10,6 +10,11 @@
     "name": "0x01"
   },
   {
+    "ascii": "0xa0",
+    "mature": false,
+    "name": "0xa0"
+  },
+  {
     "ascii": "2077",
     "mature": false,
     "name": "2077"
@@ -874,6 +879,11 @@
     "ascii": "demex",
     "mature": false,
     "name": "demex"
+  },
+  {
+    "ascii": "diablona",
+    "mature": false,
+    "name": "diablona"
   },
   {
     "ascii": "dingbat",
@@ -2356,6 +2366,11 @@
     "name": "pursuant"
   },
   {
+    "ascii": "pussywagon",
+    "mature": true,
+    "name": "pussywagon"
+  },
+  {
     "ascii": "pxem",
     "mature": false,
     "name": "pxem"
@@ -2429,6 +2444,11 @@
     "ascii": "roshi",
     "mature": false,
     "name": "roshi"
+  },
+  {
+    "ascii": "rootserve",
+    "mature": false,
+    "name": "rootserve"
   },
   {
     "ascii": "roster",
@@ -2765,6 +2785,11 @@
     "ascii": "stockish",
     "mature": false,
     "name": "stockish"
+  },
+  {
+    "ascii": "strace",
+    "mature": false,
+    "name": "strace"
   },
   {
     "ascii": "structs",
@@ -3900,6 +3925,16 @@
     "mature": false,
     "name": "ไม้เท้า",
     "translation": "staff"
+  },
+  {
+    "ascii": "xn--o60c",
+    "mature": false,
+    "name": "ALT (👽)"
+  },
+  {
+    "ascii": "xn--olj",
+    "mature": false,
+    "name": "PRIVATE USE"
   },
   {
     "ascii": "xn--p3h",

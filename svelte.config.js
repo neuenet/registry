@@ -27,7 +27,6 @@ const config = {
       routes: "src/pages",
       template: "src/__index.html"
     },
-    target: "body",
     vite: () => ({
       resolve: {
         alias: {

@@ -15,6 +15,11 @@
     "name": "biogene"
   },
   {
+    "ascii": "biona",
+    "mature": false,
+    "name": "biona"
+  },
+  {
     "ascii": "biotechnica",
     "mature": false,
     "name": "biotechnica"
@@ -203,6 +208,11 @@
     "ascii": "trueblue",
     "mature": false,
     "name": "trueblue"
+  },
+  {
+    "ascii": "versalife",
+    "mature": false,
+    "name": "versalife"
   },
   {
     "ascii": "weedcoin",

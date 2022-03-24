@@ -8,8 +8,6 @@
 
 ```sh
 npm i
-# if running for the first time, also run following command
-npx install husky
 ```
 
 ## Development
